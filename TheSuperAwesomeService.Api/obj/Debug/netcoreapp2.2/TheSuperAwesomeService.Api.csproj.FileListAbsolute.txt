@@ -1,0 +1,10 @@
+C:\Users\krubi\source\repos\Task2WebAPI\TheSuperAwesomeService.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\krubi\source\repos\Task2WebAPI\TheSuperAwesomeService.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\krubi\source\repos\Task2WebAPI\TheSuperAwesomeService.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\krubi\source\repos\Task2WebAPI\TheSuperAwesomeService.Api\bin\Debug\netcoreapp2.2\TheSuperAwesomeService.Api.deps.json
+C:\Users\krubi\source\repos\Task2WebAPI\TheSuperAwesomeService.Api\bin\Debug\netcoreapp2.2\TheSuperAwesomeService.Api.runtimeconfig.json
+C:\Users\krubi\source\repos\Task2WebAPI\TheSuperAwesomeService.Api\bin\Debug\netcoreapp2.2\TheSuperAwesomeService.Api.runtimeconfig.dev.json
+C:\Users\krubi\source\repos\Task2WebAPI\TheSuperAwesomeService.Api\bin\Debug\netcoreapp2.2\TheSuperAwesomeService.Api.dll
+C:\Users\krubi\source\repos\Task2WebAPI\TheSuperAwesomeService.Api\obj\Debug\netcoreapp2.2\TheSuperAwesomeService.Api.csprojAssemblyReference.cache
+C:\Users\krubi\source\repos\Task2WebAPI\TheSuperAwesomeService.Api\obj\Debug\netcoreapp2.2\TheSuperAwesomeService.Api.AssemblyInfoInputs.cache
+C:\Users\krubi\source\repos\Task2WebAPI\TheSuperAwesomeService.Api\obj\Debug\netcoreapp2.2\TheSuperAwesomeService.Api.AssemblyInfo.cs

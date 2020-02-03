@@ -1,0 +1,236 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\KrumValkov\\OneDrive - Raybased AB\\Downloads\\Task2WebAPI (2)\\TheSuperAwesomeService.Test\\TheSuperAwesomeService.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\KrumValkov\\OneDrive - Raybased AB\\Downloads\\Task2WebAPI (2)\\TheSuperAwesomeService.Api\\TheSuperAwesomeService.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KrumValkov\\OneDrive - Raybased AB\\Downloads\\Task2WebAPI (2)\\TheSuperAwesomeService.Api\\TheSuperAwesomeService.Api.csproj",
+        "projectName": "TheSuperAwesomeService.Api",
+        "projectPath": "C:\\Users\\KrumValkov\\OneDrive - Raybased AB\\Downloads\\Task2WebAPI (2)\\TheSuperAwesomeService.Api\\TheSuperAwesomeService.Api.csproj",
+        "packagesPath": "C:\\Users\\KrumValkov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KrumValkov\\OneDrive - Raybased AB\\Downloads\\Task2WebAPI (2)\\TheSuperAwesomeService.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KrumValkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\KrumValkov\\OneDrive - Raybased AB\\Downloads\\Task2WebAPI (2)\\TheSuperAwesomeService.Domain\\TheSuperAwesomeService.Domain.csproj": {
+                "projectPath": "C:\\Users\\KrumValkov\\OneDrive - Raybased AB\\Downloads\\Task2WebAPI (2)\\TheSuperAwesomeService.Domain\\TheSuperAwesomeService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\KrumValkov\\OneDrive - Raybased AB\\Downloads\\Task2WebAPI (2)\\TheSuperAwesomeService.Domain\\TheSuperAwesomeService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KrumValkov\\OneDrive - Raybased AB\\Downloads\\Task2WebAPI (2)\\TheSuperAwesomeService.Domain\\TheSuperAwesomeService.Domain.csproj",
+        "projectName": "TheSuperAwesomeService.Domain",
+        "projectPath": "C:\\Users\\KrumValkov\\OneDrive - Raybased AB\\Downloads\\Task2WebAPI (2)\\TheSuperAwesomeService.Domain\\TheSuperAwesomeService.Domain.csproj",
+        "packagesPath": "C:\\Users\\KrumValkov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KrumValkov\\OneDrive - Raybased AB\\Downloads\\Task2WebAPI (2)\\TheSuperAwesomeService.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KrumValkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\KrumValkov\\OneDrive - Raybased AB\\Downloads\\Task2WebAPI (2)\\TheSuperAwesomeService.Test\\TheSuperAwesomeService.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KrumValkov\\OneDrive - Raybased AB\\Downloads\\Task2WebAPI (2)\\TheSuperAwesomeService.Test\\TheSuperAwesomeService.Test.csproj",
+        "projectName": "TheSuperAwesomeService.Test",
+        "projectPath": "C:\\Users\\KrumValkov\\OneDrive - Raybased AB\\Downloads\\Task2WebAPI (2)\\TheSuperAwesomeService.Test\\TheSuperAwesomeService.Test.csproj",
+        "packagesPath": "C:\\Users\\KrumValkov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KrumValkov\\OneDrive - Raybased AB\\Downloads\\Task2WebAPI (2)\\TheSuperAwesomeService.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KrumValkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\KrumValkov\\OneDrive - Raybased AB\\Downloads\\Task2WebAPI (2)\\TheSuperAwesomeService.Api\\TheSuperAwesomeService.Api.csproj": {
+                "projectPath": "C:\\Users\\KrumValkov\\OneDrive - Raybased AB\\Downloads\\Task2WebAPI (2)\\TheSuperAwesomeService.Api\\TheSuperAwesomeService.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "FakeItEasy": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\Users\krubi\source\repos\Task2WebAPI\TheSuperAwesomeService.Domain\bin\Debug\netcoreapp3.1\TheSuperAwesomeService.Domain.deps.json
+C:\Users\krubi\source\repos\Task2WebAPI\TheSuperAwesomeService.Domain\bin\Debug\netcoreapp3.1\TheSuperAwesomeService.Domain.dll
+C:\Users\krubi\source\repos\Task2WebAPI\TheSuperAwesomeService.Domain\bin\Debug\netcoreapp3.1\TheSuperAwesomeService.Domain.pdb
+C:\Users\krubi\source\repos\Task2WebAPI\TheSuperAwesomeService.Domain\obj\Debug\netcoreapp3.1\TheSuperAwesomeService.Domain.csprojAssemblyReference.cache
+C:\Users\krubi\source\repos\Task2WebAPI\TheSuperAwesomeService.Domain\obj\Debug\netcoreapp3.1\TheSuperAwesomeService.Domain.AssemblyInfoInputs.cache
+C:\Users\krubi\source\repos\Task2WebAPI\TheSuperAwesomeService.Domain\obj\Debug\netcoreapp3.1\TheSuperAwesomeService.Domain.AssemblyInfo.cs
+C:\Users\krubi\source\repos\Task2WebAPI\TheSuperAwesomeService.Domain\obj\Debug\netcoreapp3.1\TheSuperAwesomeService.Domain.dll
+C:\Users\krubi\source\repos\Task2WebAPI\TheSuperAwesomeService.Domain\obj\Debug\netcoreapp3.1\TheSuperAwesomeService.Domain.pdb

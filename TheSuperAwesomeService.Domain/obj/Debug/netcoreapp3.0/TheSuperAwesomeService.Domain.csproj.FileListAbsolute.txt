@@ -1,0 +1,8 @@
+C:\Users\KrumValkov\OneDrive - Raybased AB\Downloads\Task2WebAPI (2)\TheSuperAwesomeService.Domain\bin\Debug\netcoreapp3.0\TheSuperAwesomeService.Domain.deps.json
+C:\Users\KrumValkov\OneDrive - Raybased AB\Downloads\Task2WebAPI (2)\TheSuperAwesomeService.Domain\bin\Debug\netcoreapp3.0\TheSuperAwesomeService.Domain.dll
+C:\Users\KrumValkov\OneDrive - Raybased AB\Downloads\Task2WebAPI (2)\TheSuperAwesomeService.Domain\bin\Debug\netcoreapp3.0\TheSuperAwesomeService.Domain.pdb
+C:\Users\KrumValkov\OneDrive - Raybased AB\Downloads\Task2WebAPI (2)\TheSuperAwesomeService.Domain\obj\Debug\netcoreapp3.0\TheSuperAwesomeService.Domain.csprojAssemblyReference.cache
+C:\Users\KrumValkov\OneDrive - Raybased AB\Downloads\Task2WebAPI (2)\TheSuperAwesomeService.Domain\obj\Debug\netcoreapp3.0\TheSuperAwesomeService.Domain.AssemblyInfoInputs.cache
+C:\Users\KrumValkov\OneDrive - Raybased AB\Downloads\Task2WebAPI (2)\TheSuperAwesomeService.Domain\obj\Debug\netcoreapp3.0\TheSuperAwesomeService.Domain.AssemblyInfo.cs
+C:\Users\KrumValkov\OneDrive - Raybased AB\Downloads\Task2WebAPI (2)\TheSuperAwesomeService.Domain\obj\Debug\netcoreapp3.0\TheSuperAwesomeService.Domain.dll
+C:\Users\KrumValkov\OneDrive - Raybased AB\Downloads\Task2WebAPI (2)\TheSuperAwesomeService.Domain\obj\Debug\netcoreapp3.0\TheSuperAwesomeService.Domain.pdb
